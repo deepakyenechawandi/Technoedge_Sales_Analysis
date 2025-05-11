@@ -86,8 +86,7 @@ From the current dashboard:
 ### 📌 Dashboard Overview
 ![Dashboard Preview](https://github.com/deepakyenechawandi/Technoedge_Sales_Analysis_Power_BI_Project/blob/main/Output/Technoedge%20Sales%20Analysis%20Report.png)
 
-
-![Technoedge Power BI Dashboard]([Technoedge Sales Analysis Report.png](https://github.com/deepakyenechawandi/Technoedge_Sales_Analysis_Power_BI_Project/blob/main/Output/Technoedge%20Sales%20Analysis%20Report.png))
+([Technoedge Sales Analysis Report.png](https://github.com/deepakyenechawandi/Technoedge_Sales_Analysis_Power_BI_Project/blob/main/Output/Technoedge%20Sales%20Analysis%20Report.png))
 
 
 - **Top Left**: KPI Summary (Sales, Profit, Quantity, Discounts)
