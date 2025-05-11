@@ -84,7 +84,7 @@ From the current dashboard:
 ## 🖼️ Demos / Screenshots
 
 ### 📌 Dashboard Overview
-![Alt Text]([Output/Technoedge Sales Analysis Report.png](https://github.com/deepakyenechawandi/Technoedge_Sales_Analysis_Power_BI_Project/blob/main/Output/Technoedge%20Sales%20Analysis%20Report.png))
+![Dashboard Preview]([assets/Screenshot%202025-05-11%20000641.png](https://github.com/deepakyenechawandi/Technoedge_Sales_Analysis_Power_BI_Project/blob/main/Output/Technoedge%20Sales%20Analysis%20Report.png))
 
 
 ![Technoedge Power BI Dashboard]([Technoedge Sales Analysis Report.png](https://github.com/deepakyenechawandi/Technoedge_Sales_Analysis_Power_BI_Project/blob/main/Output/Technoedge%20Sales%20Analysis%20Report.png))
