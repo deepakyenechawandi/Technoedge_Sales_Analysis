@@ -16,7 +16,7 @@ This project focuses on analyzing and visualizing sales data across different ca
 - **Power Query (M Language)** – for data transformation  
 - **DAX (Data Analysis Expressions)** – for calculated columns and KPIs  
 - **Excel/CSV** – as the source format for data  
-- **Map Visuals & Slicers** – for interactivity and geospatial analysis
+- **Map Visuals** – for interactivity and geospatial analysis
 
 ---
 
@@ -85,7 +85,7 @@ From the current dashboard:
 
 ### 📌 Dashboard Overview
 
-![Technoedge Power BI Dashboard](./Screenshot%202025-05-11%20000641.png)
+![Technoedge Power BI Dashboard]([./Screenshot%202025-05-11%20000641.png](https://github.com/deepakyenechawandi/Technoedge_Sales_Analysis_Power_BI_Project/blob/main/Output/Technoedge%20Sales%20Analysis%20Report.png))
 
 - **Top Left**: KPI Summary (Sales, Profit, Quantity, Discounts)
 - **Top Middle**: Sales by Sub-category and Category
